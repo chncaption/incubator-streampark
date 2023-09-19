@@ -57,7 +57,7 @@
         <lombok.version>1.18.24</lombok.version>
         <xml-apis.version>1.4.01</xml-apis.version>
         <ivy.version>2.5.0</ivy.version>
-        <eclipse.jgit.version>5.13.0.202109080827-r</eclipse.jgit.version>
+        <eclipse.jgit.version>6.6.1.202309021850-r</eclipse.jgit.version>
     </properties>
 
     <dependencyManagement>
