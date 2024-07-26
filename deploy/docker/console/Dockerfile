@@ -22,7 +22,7 @@ RUN tar zxvf streampark-console/streampark-console-service/target/streampark-con
 && mv streampark-console-service-* streampark
 
 
-FROM docker:dind
+FROM docker:27.1.1-dind-alpine3.20
 WORKDIR /streampark
 COPY --from=deps-stage /streampark /streampark
 
