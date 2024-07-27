@@ -14,7 +14,7 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 ###############################################################################
-FROM docker:dind
+FROM docker:27.1.1-dind-alpine3.20
 WORKDIR /streampark
 COPY . /streampark
 
