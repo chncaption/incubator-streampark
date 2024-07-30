@@ -33,7 +33,7 @@
 
     <properties>
         <clickhouse.version>0.3.2</clickhouse.version>
-        <async.client.version>2.12.3</async.client.version>
+        <async.client.version>3.0.0</async.client.version>
         <influxdb.version>2.17</influxdb.version>
     </properties>
 
@@ -232,7 +232,7 @@
                     <value>2.12</value>
                 </property>
             </activation>
-            <modules></modules>
+            <modules/>
         </profile>
 
         <profile>
