@@ -52,7 +52,7 @@
     "mockjs": "^1.1.0",
     "monaco-editor": "^0.34.0",
     "nprogress": "^0.2.0",
-    "path-to-regexp": "^6.2.1",
+    "path-to-regexp": "^8.0.0",
     "penpal": "^6.2.2",
     "pinia": "2.0.22",
     "print-js": "^1.6.0",
