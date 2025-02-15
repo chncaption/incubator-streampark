@@ -182,7 +182,7 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-resolver</artifactId>
-            <version>4.1.65.Final</version>
+            <version>4.1.118.Final</version>
             <optional>true</optional>
         </dependency>
 
